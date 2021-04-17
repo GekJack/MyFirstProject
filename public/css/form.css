@@ -1,0 +1,27 @@
+form  label{
+    font-size: 3vw;
+}
+
+form{
+    margin-bottom: 20px;
+}
+.reg{
+    height: 50vw;
+    
+}
+.con-but{
+    text-align: center;
+}
+.but{
+    margin-top: 20px;
+    background-color: lawngreen;
+    color: lightseagreen;
+    border: none;
+    border-radius: 10%;
+    font-size: 3vw;
+}
+.gif img{
+    width: 20vw;
+    height: 20vw;
+    padding-left: 2vw;
+}

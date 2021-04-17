@@ -1,0 +1,97 @@
+#logo{
+    width: 45px;
+    height: 25px;
+}
+
+.mlink{
+    color:whitesmoke;
+    text-decoration: none;
+
+}
+.menu{
+    background-color: black;
+    
+}
+.menu div ul li{
+    padding-left: 2vw;
+}
+.menu a:hover{
+    color: #FFFF00;
+}
+.main{
+    background-color: gray;
+    height: max-content;
+    padding-top: 5vh;
+    
+}
+
+.slider-wrap{
+    width: 60vw;
+    height: 30vw;
+    margin: 0 auto;
+}
+.slider{
+    width: 60vw;
+    height: 30vw;
+    overflow: hidden;
+}
+.sl-pc{
+    width: 60vw;
+    height: 30vw;
+    position: absolute;
+    opacity: 1;
+    transition: all ease 1s;
+}
+.opacity{
+    opacity: 0;
+}
+.welcome{
+    text-align: center;
+    font-size: 6vw;
+    color: mediumturquoise;
+    color: rgba(0,0,0,0.6);
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+
+
+}
+.about{
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    font-size: 3vw;
+    width: 90vw;
+    margin: 0 auto;
+}
+.about p{
+    margin: 0;
+    padding-bottom: 20px;
+}
+.end{
+    background-color: #FFC0CB;
+    height: 10vw;
+
+}
+.end div{
+    text-align: center;
+}
+.end div a img{
+    width: 9vw;
+    height: 8vw;
+}
+
+.gal{
+    margin-top: 30px;
+    height: 30vw;
+    text-align: center;
+}
+.gal img{
+    width: 40vw;
+    height: 20vw;
+}
+.gal div{
+    font-size: 2.5vw;
+    font-style: italic;
+    font-weight: bolder;
+}
+.writecom{
+    text-align: center;
+    text-decoration: none;
+}

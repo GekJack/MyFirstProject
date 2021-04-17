@@ -1,0 +1,47 @@
+.comment{
+    margin-bottom: 30px;
+}
+.comment div input{
+    width: 50vw;
+    margin: 0 auto;
+}
+.comment .head{
+    text-align: center;
+    font-size: 3vw;
+    font-style: italic;
+}
+.comment div textarea{
+    width: 50vw;
+    margin: 0 auto;
+}
+.sub{
+    text-align: center;
+}
+.sub input{
+    border: none;
+    font-size: 2vw;
+    color: wheat;
+    background-color: black;
+    border-radius: 45%;
+
+}
+.red{
+    text-align: center;
+    color: maroon;
+    font-size: 3vw;
+    
+}
+.seecomment{
+    border: 2px maroon solid;
+    text-align: center;
+    border-left: none;
+    border-right: none;
+    font-size: 2vw;
+    margin-top: 20px;
+    width: 80vw;
+}
+.seecomment .nickname{
+    font-size: 2vw;
+    color: mediumblue;
+    font-style: italic;
+}

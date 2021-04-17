@@ -1,0 +1,27 @@
+.main-game{
+    background-color: bisque;
+    
+}
+.main-game p{
+    font-size: 2vw;
+    color: grey;
+    font-style: oblique;
+    margin-bottom: 0;
+    padding-bottom: 2vw;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+table{
+    margin: 0;
+    font-size: 2vw;
+}
+table a{
+    text-decoration: none;
+    color: white;
+
+}
+table a:hover{
+    color: violet;
+    font-weight: bolder;
+}
